@@ -6,8 +6,10 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.2.3</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
+		<!-- lookup parent from repository -->
 	</parent>
+	<packaging>war</packaging>
 	<groupId>com.example</groupId>
 	<artifactId>demo2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
